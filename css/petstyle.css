@@ -1,0 +1,22 @@
+h1{
+  color:#93FFE8;
+}
+h2{
+  color:#ADD8E6;
+  margin-left: 3em;
+}
+body{
+  padding:3em;
+}
+a {
+  color: hotpink;
+}
+a:hover{
+  color:red;
+}
+ul{
+  font-size:16pt;
+}
+p{
+  font-size:16pt;
+}
