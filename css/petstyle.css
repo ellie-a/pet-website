@@ -20,3 +20,19 @@ ul{
 p{
   font-size:16pt;
 }
+
+ul.stormy {
+  color:#ADD8E6;
+}
+
+h2.headcolor {
+  color: blue;
+}
+
+ul.duck {
+  color: blue;
+}
+
+.wrap {
+  width: 50%;
+}
